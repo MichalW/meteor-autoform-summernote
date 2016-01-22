@@ -1,8 +1,8 @@
 Package.describe({
-  name: 'mpowaga:autoform-summernote',
+  name: 'vazco:autoform-summernote',
   summary: 'Summernote editor for aldeed:autoform',
   version: '0.4.3',
-  git: 'https://github.com/mpowaga/meteor-autoform-summernote'
+  git: 'https://github.com/MichalW/meteor-autoform-summernote'
 });
 
 Package.onUse(function(api) {
