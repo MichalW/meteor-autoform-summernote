@@ -12,8 +12,8 @@ Package.onUse(function(api) {
     'templating',
     'underscore',
     'reactive-var',
-    'aldeed:autoform@5.8.0',
-    'summernote:standalone@0.7.0'
+    'aldeed:autoform@5.8.1',
+    'summernote:standalone@0.7.3'
   ], 'client');
 
   api.addFiles([
